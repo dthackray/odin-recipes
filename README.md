@@ -1,0 +1,1 @@
+This project will be a basic recipe website, it is intended to be a demonstration of my HTML abilities, to be styled with CSS in the future.
